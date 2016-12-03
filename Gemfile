@@ -45,3 +45,6 @@ group :development do
   gem 'spring'
 end
 
+gem 'google-api-client', '~> 0.9'
+gem 'google_drive'
+gem 'pry-rails', :group => :development
