@@ -48,3 +48,5 @@ end
 gem 'google-api-client', '~> 0.9'
 gem 'google_drive'
 gem 'pry-rails', :group => :development
+
+gem 'rack-cors', :require => 'rack/cors'
