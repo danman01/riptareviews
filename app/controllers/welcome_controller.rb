@@ -1,6 +1,7 @@
 class WelcomeController < ApplicationController
 
-  require 'MyDrive'
+
+  require 'mydrive.rb'
 
   def index
   end
